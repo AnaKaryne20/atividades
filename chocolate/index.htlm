@@ -1,0 +1,9 @@
+<html> 
+
+<form action ="programa.php" method="post">
+	<input type="text" name="chocB" />
+	<input type="text" name="chocE" />
+	<input type="submit" value="Enviar"/>
+</form>
+
+</html>
